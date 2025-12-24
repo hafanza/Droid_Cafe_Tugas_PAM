@@ -21,5 +21,9 @@
     <string name="same_day_messenger_service">Same day messenger service</string>
     <string name="next_day_ground_delivery">Next day ground delivery</string>
     <string name="pick_up">Pick up</string>
-
-</resources>
+    <string-array name="city_array">
+        <item>Garut</item>
+        <item>Cirebon</item>
+        <item>Bandung</item>
+        <item>Jakarta</item>
+    </string-array></resources>
